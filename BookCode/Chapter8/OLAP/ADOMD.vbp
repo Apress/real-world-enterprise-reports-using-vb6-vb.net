@@ -1,0 +1,35 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINNT\System32\stdole2.tlb#OLE Automation
+Reference=*\G{22813728-8BD3-11D0-B4EF-00A0C9138CA4}#2.7#0#C:\Program Files\Common Files\System\ADO\msadomd.dll#Microsoft ActiveX Data Objects (Multi-dimensional) 2.7 Library
+Reference=*\G{EF53050B-882E-4776-B643-EDA472E8E3F2}#2.7#0#C:\Program Files\Common Files\System\ADO\msado15.dll#Microsoft ActiveX Data Objects 2.7 Library
+Form=ADOMD.frm
+Object={5E9E78A0-531B-11CF-91F6-C2863C385E30}#1.0#0; msflxgrd.ocx
+Startup="Form1"
+Command32=""
+Name="Project1"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="Seton Software Development, Inc."
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1

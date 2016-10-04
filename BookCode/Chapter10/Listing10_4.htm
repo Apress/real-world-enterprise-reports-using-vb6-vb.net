@@ -1,0 +1,59 @@
+Listing 10-4
+<HTML>
+<HEAD>
+   <TITLE>ABC Communications Payment Finder Results</TITLE>
+   <META NAME="palmcomputingplatform" CONTENT="TRUE">
+   <META NAME="palmlauncherrevision" CONTENT="1.0">
+</HEAD>
+<BODY>
+<H1 ALIGN=center>Search Results</H1>
+<TABLE WIDTH=100% BORDER=0>
+<%
+
+Dim cZip	' Zip Code
+Dim oCn	' Database Connection
+Dim oRs	' Recordset Object
+Dim cSQL	' SQL Statement
+
+' Open Database Connection
+Set oCn = Server.CreateObject("ADODB.Connection")
+oCn.Open "DSN=MyDSN;pwd=nopass;"
+
+' Get the Requested ZipCode
+cZip = Request.Form("ZipCode")
+
+' Find the Exact Match
+cSQL = "SELECT * FROM ZipCity WHERE ZipCode ='" & cZip & "'"
+Set oRs = oCn.Execute(cSQL)
+
+' Return Table
+Do While Not oRs.EOF
+%>
+   <TR>
+      <TD><%=oRs("Name")%></TD>
+   </TR>
+   <TR>
+      <TD><%=oRs("Address")%></TD>
+   </TR>
+   <TR>
+      <TD><%=Trim(oRs("City")) & "," & oRs("State") & " " & oRs("Zip")%> <TD>
+   </TR>
+   <TR>
+      <TD><%=oRs("Phone")%></TD>		   
+   </TR>
+   <TR>
+      <TD>&nbsp;</TD>		   
+   </TR>	
+<%
+Loop
+
+' Close Recordset
+oRs.Close
+Set oRs = Nothing
+
+' Close Connection
+oCn.Close
+%>	
+   </TABLE>
+</BODY>
+</HTML>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ActiveReportsLayout Version="3" PrintWidth="9360" DocumentName="ActiveReports Document" ScriptLang="C#" CodeFile="RichTextBox.vb">
+  <StyleSheet>
+    <Style Name="Normal" Value="font-family: Arial; font-style: normal; font-variant: inherit; font-weight: normal; font-size: 10pt; font-size-adjust: inherit; font-stretch: inherit; color: rgb(0,0,0); background-repeat: inherit; background-attachment: inherit; opacity: inherit; word-spacing: inherit; letter-spacing: inherit; text-decoration: none; vertical-align: inherit; text-transform: inherit; text-align: inherit; text-indent: inherit; unicode-bidi: inherit; line-height: inherit; white-space: inherit; ddo-char-set: 0; " />
+    <Style Name="Heading1" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 16pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading2" Value="font-family: Times New Roman; font-style: italic; font-variant: inherit; font-weight: bold; font-size: 14pt; font-size-adjust: inherit; font-stretch: inherit; " />
+    <Style Name="Heading3" Value="font-family: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; font-size: 13pt; font-size-adjust: inherit; font-stretch: inherit; " />
+  </StyleSheet>
+  <Sections>
+    <Section Type="Detail" Name="Detail" Height="5204" BackColor="16777215" CanShrink="0">
+      <Control Type="AR.RTF" Name="RichTextBox1" MOD="4" Left="90" Top="90" Width="9180" Height="4770" BackStyle="0">
+        <Data><![CDATA[00000000000000007B5C727466315C616E73695C616E7369637067313235325C64656666307B5C666F6E7474626C7B5C66305C666E696C5C66636861727365743020417269616C3B7D7D0D0A7B5C636F6C6F7274626C203B5C726564305C677265656E305C626C7565303B7D0D0A7B5C2A5C67656E657261746F7220526963686564323020352E34302E31312E323231303B7D5C766965776B696E64345C7563315C706172645C6E6F77696463746C7061725C736C3234305C736C6D756C74305C6366315C6C616E67313033335C667332305C7061720D0A7D0D0A00]]></Data>
+      </Control>
+    </Section>
+  </Sections>
+  <PageSettings />
+</ActiveReportsLayout>

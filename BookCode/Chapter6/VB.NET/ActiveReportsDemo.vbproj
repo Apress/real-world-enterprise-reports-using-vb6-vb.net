@@ -1,0 +1,303 @@
+<VisualStudioProject>
+    <VisualBasic
+        ProjectType = "Local"
+        ProductVersion = "7.0.9466"
+        SchemaVersion = "1.0"
+        ProjectGuid = "{84D7C1BF-D28E-4E26-A919-D67ED83C584A}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = ""
+                AssemblyKeyContainerName = ""
+                AssemblyName = "WindowsApplication5"
+                AssemblyOriginatorKeyFile = ""
+                AssemblyOriginatorKeyMode = "None"
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "WinExe"
+                OptionCompare = "Binary"
+                OptionExplicit = "On"
+                OptionStrict = "Off"
+                RootNamespace = "WindowsApplication5"
+                StartupObject = "WindowsApplication5.frmMainMenu"
+            >
+                <Config
+                    Name = "Debug"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "true"
+                    DefineTrace = "true"
+                    DebugSymbols = "true"
+                    IncrementalBuild = "true"
+                    Optimize = "false"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+                <Config
+                    Name = "Release"
+                    BaseAddress = "285212672"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = ""
+                    DefineDebug = "false"
+                    DefineTrace = "true"
+                    DebugSymbols = "false"
+                    IncrementalBuild = "false"
+                    Optimize = "true"
+                    OutputPath = "bin\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "1"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                />
+                <Reference
+                    Name = "activereports.design"
+                    AssemblyName = "ActiveReports.Design"
+                    HintPath = "..\..\..\..\..\program files\common files\data dynamics\activereports for .net\activereports.design.dll"
+                />
+                <Reference
+                    Name = "ActiveReports"
+                    AssemblyName = "ActiveReports"
+                    HintPath = "..\..\..\..\..\program files\common files\data dynamics\activereports for .net\ActiveReports.dll"
+                />
+                <Reference
+                    Name = "System.Design"
+                    AssemblyName = "System.Design"
+                    HintPath = "..\..\..\..\..\WINNT\Microsoft.NET\Framework\v1.0.3705\System.Design.dll"
+                />
+                <Reference
+                    Name = "ActiveReports.Viewer"
+                    AssemblyName = "ActiveReports.Viewer"
+                    HintPath = "..\..\..\..\..\program files\common files\data dynamics\activereports for .net\ActiveReports.Viewer.dll"
+                />
+                <Reference
+                    Name = "ActiveReports.Interop"
+                    AssemblyName = "ActiveReports.Interop"
+                    HintPath = "..\..\..\..\..\program files\common files\data dynamics\activereports for .net\ActiveReports.Interop.dll"
+                />
+                <Reference
+                    Name = "ARExportExcel"
+                    AssemblyName = "ARExportExcel"
+                    HintPath = "..\..\..\..\..\Program Files\Common Files\\Data Dynamics\ActiveReports for .NET\ARExportExcel.dll"
+                />
+                <Reference
+                    Name = "ActiveReports.HtmlExport"
+                    AssemblyName = "ActiveReports.HtmlExport"
+                    HintPath = "..\..\..\..\..\Program Files\Common Files\\Data Dynamics\ActiveReports for .NET\ActiveReports.HtmlExport.dll"
+                />
+                <Reference
+                    Name = "ActiveReports.PdfExport"
+                    AssemblyName = "ActiveReports.PdfExport"
+                    HintPath = "..\..\..\..\..\Program Files\Common Files\\Data Dynamics\ActiveReports for .NET\ActiveReports.PdfExport.dll"
+                />
+                <Reference
+                    Name = "ARExportRTF"
+                    AssemblyName = "ARExportRTF"
+                    HintPath = "..\..\..\..\..\Program Files\Common Files\\Data Dynamics\ActiveReports for .NET\ARExportRTF.dll"
+                />
+                <Reference
+                    Name = "ARExportText"
+                    AssemblyName = "ARExportText"
+                    HintPath = "..\..\..\..\..\Program Files\Common Files\\Data Dynamics\ActiveReports for .NET\ARExportText.dll"
+                />
+                <Reference
+                    Name = "ARExportTIFF"
+                    AssemblyName = "ARExportTIFF"
+                    HintPath = "..\..\..\..\..\Program Files\Common Files\\Data Dynamics\ActiveReports for .NET\ARExportTIFF.dll"
+                />
+            </References>
+            <Imports>
+                <Import Namespace = "Microsoft.VisualBasic" />
+                <Import Namespace = "System" />
+                <Import Namespace = "System.Collections" />
+                <Import Namespace = "System.Data" />
+                <Import Namespace = "System.Drawing" />
+                <Import Namespace = "System.Diagnostics" />
+                <Import Namespace = "System.Windows.Forms" />
+            </Imports>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "AssemblyInfo.vb"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Bookmarks.rpx"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "ARVSPackage.VBCodeGenerator"
+                    LastGenOutput = "Bookmarks.vb"
+                />
+                <File
+                    RelPath = "Bookmarks.vb"
+                    DependentUpon = "Bookmarks.rpx"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "DrillDownDetail.rpx"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "ARVSPackage.VBCodeGenerator"
+                    LastGenOutput = "DrillDownDetail.vb"
+                />
+                <File
+                    RelPath = "DrillDownDetail.vb"
+                    DependentUpon = "DrillDownDetail.rpx"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "DynamicReport.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "DynamicReport.resx"
+                    DependentUpon = "DynamicReport.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "GettingStarted.rpx"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "ARVSPackage.VBCodeGenerator"
+                    LastGenOutput = "GettingStarted.vb"
+                />
+                <File
+                    RelPath = "GettingStarted.vb"
+                    DependentUpon = "GettingStarted.rpx"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "HyperLink.rpx"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "ARVSPackage.VBCodeGenerator"
+                    LastGenOutput = "HyperLink.vb"
+                />
+                <File
+                    RelPath = "HyperLink.vb"
+                    DependentUpon = "HyperLink.rpx"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "licenses.licx"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "MainMenu.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "MainMenu.resx"
+                    DependentUpon = "MainMenu.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "ProductsOrderedSubRpt.rpx"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "ARVSPackage.VBCodeGenerator"
+                    LastGenOutput = "ProductsOrderedSubRpt.vb"
+                />
+                <File
+                    RelPath = "ProductsOrderedSubRpt.vb"
+                    DependentUpon = "ProductsOrderedSubRpt.rpx"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "ReportView.vb"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "ReportView.resx"
+                    DependentUpon = "ReportView.vb"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "RichTextBox.rpx"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "ARVSPackage.VBCodeGenerator"
+                    LastGenOutput = "RichTextBox.vb"
+                />
+                <File
+                    RelPath = "RichTextBox.vb"
+                    DependentUpon = "RichTextBox.rpx"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "SubReport.rpx"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "ARVSPackage.VBCodeGenerator"
+                    LastGenOutput = "SubReport.vb"
+                />
+                <File
+                    RelPath = "SubReport.vb"
+                    DependentUpon = "SubReport.rpx"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+                <File
+                    RelPath = "UnboundReport.rpx"
+                    BuildAction = "EmbeddedResource"
+                    Generator = "ARVSPackage.VBCodeGenerator"
+                    LastGenOutput = "UnboundReport1.vb"
+                />
+                <File
+                    RelPath = "UnboundReport1.vb"
+                    DependentUpon = "UnboundReport.rpx"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                    DesignTime = "True"
+                    AutoGen = "True"
+                />
+            </Include>
+        </Files>
+    </VisualBasic>
+</VisualStudioProject>
+

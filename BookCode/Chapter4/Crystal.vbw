@@ -1,0 +1,5 @@
+frmReportView = 44, 0, 1080, 780, C, 94, 12, 1060, 779, C
+Module1 = 154, 154, 1120, 778, C
+frmCriteria = 59, 41, 1095, 821, , 181, 115, 1146, 731, C
+DynamicLabel = 132, 132, 1097, 748, C
+DynamicComboBox = 237, 198, 1202, 814, C

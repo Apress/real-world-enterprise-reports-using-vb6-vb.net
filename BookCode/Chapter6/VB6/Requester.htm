@@ -1,0 +1,23 @@
+<HTML xmlns:signature="urn:schemas-microsoft-com:office:access">
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html;charset=UTF-8"/>
+</HEAD>
+
+<SCRIPT event=onload for=window>
+  objData = new ActiveXObject("MSXML.DOMDocument");
+  objData.async = false;
+  objData.load("Requester.xml");
+  if (objData.parseError.errorCode != 0)
+    alert(objData.parseError.reason);
+  
+  objStyle = new ActiveXObject("MSXML.DOMDocument");
+  objStyle.async = false;
+  objStyle.load("Requester.xsl");
+  if (objStyle.parseError.errorCode != 0)
+    alert(objStyle.parseError.reason);
+
+  document.open("text/html","replace");
+  document.write(objData.transformNode(objStyle));
+</SCRIPT>
+
+</HTML>

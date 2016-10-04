@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FormattedReport xmlns = 'urn:crystal-reports:schemas' xmlns:xsi = 'http://www.w3.org/2000/10/XMLSchema-instance'
+>
+<FormattedAreaPair Level="0" Type="Report">
+<FormattedArea Type="Header">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedText"><ObjectName>Text1</ObjectName>
+<TextValue>US Presidents - Where are they now?</TextValue>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+<FormattedAreaPair Level="1" Type="Group">
+<FormattedArea Type="Header">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.State}"><ObjectName>Field6</ObjectName>
+<FormattedValue>NJ</FormattedValue>
+<Value>NJ</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+<FormattedAreaPair Level="2" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.LastName}"><ObjectName>Field1</ObjectName>
+<FormattedValue>Bush</FormattedValue>
+<Value>Bush</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.FirstName}"><ObjectName>Field2</ObjectName>
+<FormattedValue>George</FormattedValue>
+<Value>George</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.Address1}"><ObjectName>Field3</ObjectName>
+<FormattedValue>123 Main Street</FormattedValue>
+<Value>123 Main Street</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.City}"><ObjectName>Field4</ObjectName>
+<FormattedValue>Anytown</FormattedValue>
+<Value>Anytown</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.State}"><ObjectName>Field5</ObjectName>
+<FormattedValue>NJ</FormattedValue>
+<Value>NJ</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="2" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.LastName}"><ObjectName>Field1</ObjectName>
+<FormattedValue>Nixon</FormattedValue>
+<Value>Nixon</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.FirstName}"><ObjectName>Field2</ObjectName>
+<FormattedValue>Richard</FormattedValue>
+<Value>Richard</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.Address1}"><ObjectName>Field3</ObjectName>
+<FormattedValue>7834 Main Street</FormattedValue>
+<Value>7834 Main Street</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.City}"><ObjectName>Field4</ObjectName>
+<FormattedValue>Princeton</FormattedValue>
+<Value>Princeton</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.State}"><ObjectName>Field5</ObjectName>
+<FormattedValue>NJ</FormattedValue>
+<Value>NJ</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedArea Type="Footer">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Group">
+<FormattedArea Type="Header">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.State}"><ObjectName>Field6</ObjectName>
+<FormattedValue>NY</FormattedValue>
+<Value>NY</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+<FormattedAreaPair Level="2" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.LastName}"><ObjectName>Field1</ObjectName>
+<FormattedValue>Clinton</FormattedValue>
+<Value>Clinton</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.FirstName}"><ObjectName>Field2</ObjectName>
+<FormattedValue>Bill</FormattedValue>
+<Value>Bill</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.Address1}"><ObjectName>Field3</ObjectName>
+<FormattedValue>210 Little Rock Lane</FormattedValue>
+<Value>210 Little Rock Lane</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.City}"><ObjectName>Field4</ObjectName>
+<FormattedValue>Starrville</FormattedValue>
+<Value>Starrville</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.State}"><ObjectName>Field5</ObjectName>
+<FormattedValue>NY</FormattedValue>
+<Value>NY</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="2" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.LastName}"><ObjectName>Field1</ObjectName>
+<FormattedValue>Roosevelt</FormattedValue>
+<Value>Roosevelt</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.FirstName}"><ObjectName>Field2</ObjectName>
+<FormattedValue>Franklin</FormattedValue>
+<Value>Franklin</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.Address1}"><ObjectName>Field3</ObjectName>
+<FormattedValue>56 Fifth Street</FormattedValue>
+<Value>56 Fifth Street</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.City}"><ObjectName>Field4</ObjectName>
+<FormattedValue>Elmira</FormattedValue>
+<Value>Elmira</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.State}"><ObjectName>Field5</ObjectName>
+<FormattedValue>NY</FormattedValue>
+<Value>NY</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedArea Type="Footer">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedAreaPair Level="1" Type="Group">
+<FormattedArea Type="Header">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.State}"><ObjectName>Field6</ObjectName>
+<FormattedValue>SC</FormattedValue>
+<Value>SC</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+<FormattedAreaPair Level="2" Type="Details">
+<FormattedArea Type="Details">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.LastName}"><ObjectName>Field1</ObjectName>
+<FormattedValue>Johnson</FormattedValue>
+<Value>Johnson</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.FirstName}"><ObjectName>Field2</ObjectName>
+<FormattedValue>Andrew</FormattedValue>
+<Value>Andrew</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.Address1}"><ObjectName>Field3</ObjectName>
+<FormattedValue>35 Eighteenth Street</FormattedValue>
+<Value>35 Eighteenth Street</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.City}"><ObjectName>Field4</ObjectName>
+<FormattedValue>Charleston</FormattedValue>
+<Value>Charleston</Value>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:string" FieldName="{ado.State}"><ObjectName>Field5</ObjectName>
+<FormattedValue>SC</FormattedValue>
+<Value>SC</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedArea Type="Footer">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+<FormattedArea Type="Footer">
+<FormattedSections>
+<FormattedSection SectionNumber="0">
+<FormattedReportObjects>
+<FormattedReportObject xsi:type="CTFormattedText"><ObjectName>Text2</ObjectName>
+<TextValue>Total US Presidents listed:</TextValue>
+</FormattedReportObject>
+<FormattedReportObject xsi:type="CTFormattedField" Type="xsd:long" FieldName="Count ({ado.LastName})"><ObjectName>Field7</ObjectName>
+<FormattedValue>5</FormattedValue>
+<Value>5.00</Value>
+</FormattedReportObject>
+</FormattedReportObjects>
+</FormattedSection>
+</FormattedSections>
+</FormattedArea>
+</FormattedAreaPair>
+</FormattedReport>

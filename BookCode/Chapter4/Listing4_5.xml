@@ -1,0 +1,77 @@
+ <CrystalReports.TextObject xmlns="http://www.crystaldecisions.com/report" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="CrystalReports.TextObject" version="2">
+  <SectionCode>0</SectionCode> 
+  <SectionName /> 
+  <Top>0</Top> 
+  <Left>0</Left> 
+  <Width>1931</Width> 
+  <Height>226</Height> 
+  <Kind>Text</Kind> 
+  <ObjectName /> 
+  <Border xsi:type="CrystalReports.Border" id="1" version="2">
+  <LeftLineStyle>NoLine</LeftLineStyle> 
+  <RightLineStyle>NoLine</RightLineStyle> 
+  <TopLineStyle>NoLine</TopLineStyle> 
+  <BottomLineStyle>NoLine</BottomLineStyle> 
+  <HasDropShadow>false</HasDropShadow> 
+  <BackColor>-1</BackColor> 
+  <BorderColor>0</BorderColor> 
+  <TightHorizontal>false</TightHorizontal> 
+  <ConditionFormulas /> 
+  </Border>
+  <ObjectFormat xsi:type="CrystalReports.ObjectFormat" id="2" version="2">
+  <CanGrow>false</CanGrow> 
+  <Suppress>false</Suppress> 
+  <CloseAtPageBreak>false</CloseAtPageBreak> 
+  <KeepTogether>true</KeepTogether> 
+  <HorizontalAlignment>Default</HorizontalAlignment> 
+  <ToolTipText /> 
+  <CssClass /> 
+  <ConditionFormulas /> 
+  <HyperlinkText /> 
+  <HyperlinkType>Undefined</HyperlinkType> 
+  <TextRotationAngle>Rotate0</TextRotationAngle> 
+  </ObjectFormat>
+  <LinkedURI /> 
+  <ReportPartBookmark /> 
+ <Paragraphs xsi:type="CrystalReports.Paragraphs" id="3" version="2">
+ <Paragraph xsi:type="CrystalReports.Paragraph" id="4" version="2">
+  <TabStops /> 
+ <Elements xsi:type="CrystalReports.ParagraphElements" id="5" version="2">
+ <Element xsi:type="CrystalReports.ParagraphTextElement" id="6" version="2">
+ <FontColor xsi:type="CrystalReports.FontColor" id="7" version="2">
+  <Color>0</Color> 
+ <Font xsi:type="CrystalReports.Font" id="8" version="2">
+  <Name>Arial</Name> 
+  <Size.Low>100000</Size.Low> 
+  <Size.High>0</Size.High> 
+  <Bold>false</Bold> 
+  <Italic>false</Italic> 
+  <Underline>false</Underline> 
+  <Strikethrough>false</Strikethrough> 
+  <Weight>400</Weight> 
+  <Charset>1</Charset> 
+  </Font>
+  <ConditionFormulas /> 
+  </FontColor>
+  <Kind>Text</Kind> 
+  <Text>This information is for internal use only</Text> 
+  <CharacterSpacing>0</CharacterSpacing> 
+  </Element>
+  </Elements>
+ <IndentAndSpacingFormat xsi:type="CrystalReports.IndentAndSpacingFormat" id="9" version="2">
+  <FirstLineIndent>0</FirstLineIndent> 
+  <LeftIndent>0</LeftIndent> 
+  <RightIndent>0</RightIndent> 
+  <LineSpacingType>Multiple</LineSpacingType> 
+  <LineSpacing>65536</LineSpacing> 
+  </IndentAndSpacingFormat>
+  <Alignment>Left</Alignment> 
+  <ReadingOrder>LeftToRight</ReadingOrder> 
+  </Paragraph>
+  </Paragraphs>
+  <MaxNumberOfLines>0</MaxNumberOfLines> 
+ <TextObjectFormat xsi:type="CrystalReports.TextObjectFormat" id="10" version="2">
+  <SuppressIfDuplicated>false</SuppressIfDuplicated> 
+  <SuppressEmbedBlankLines>false</SuppressEmbedBlankLines> 
+  </TextObjectFormat>
+  </CrystalReports.TextObject>

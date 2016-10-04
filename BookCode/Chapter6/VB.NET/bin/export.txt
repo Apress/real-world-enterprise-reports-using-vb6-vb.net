@@ -1,0 +1,277 @@
+Customer Roster
+
+Company Name	Contact Name
+Alfreds Futterkiste	Maria Anders
+
+Ana Trujillo Emparedados y helados	Ana Trujillo
+
+Antonio Moreno Taquería	Antonio Moreno
+
+Around the Horn	Thomas Hardy
+
+Berglunds snabbköp	Christina Berglund
+
+Blauer See Delikatessen	Hanna Moos
+
+Blondesddsl père et fils	Frédérique Citeaux
+
+Bólido Comidas preparadas	Martín Sommer
+
+Bon app'	Laurence Lebihan
+
+Bottom-Dollar Markets	Elizabeth Lincoln
+
+B's Beverages	Victoria Ashworth
+
+Cactus Comidas para llevar	Patricio Simpson
+
+Centro comercial Moctezuma	Francisco Chang
+
+Chop-suey Chinese	Yang Wang
+
+Comércio Mineiro	Pedro Afonso
+
+Consolidated Holdings	Elizabeth Brown
+
+Drachenblut Delikatessen	Sven Ottlieb
+
+Du monde entier	Janine Labrune
+
+Eastern Connection	Ann Devon
+
+Ernst Handel	Roland Mendel
+
+Familia Arquibaldo	Aria Cruz
+
+FISSA Fabrica Inter. Salchichas S.A.	Diego Roel
+
+Folies gourmandes	Martine Rancé
+
+Folk och fä HB	Maria Larsson
+
+Frankenversand	Peter Franken
+
+France restauration	Carine Schmitt
+
+Franchi S.p.A.	Paolo Accorti
+
+Furia Bacalhau e Frutos do Mar	Lino Rodriguez
+
+
+
+
+
+ActiveReports Evaluation. Copyright 2002 (c) Data Dynamics, Ltd. All Rights Reserved.
+Company Name	Contact Name
+Furia Bacalhau e Frutos do Mar	Lino Rodriguez
+
+Galería del gastrónomo	Eduardo Saavedra
+
+Godos Cocina Típica	José Pedro Freyre
+
+Gourmet Lanchonetes	André Fonseca
+
+Great Lakes Food Market	Howard Snyder
+
+GROSELLA-Restaurante	Manuel Pereira
+
+Hanari Carnes	Mario Pontes
+
+HILARION-Abastos	Carlos Hernández
+
+Hungry Coyote Import Store	Yoshi Latimer
+
+Hungry Owl All-Night Grocers	Patricia McKenna
+
+Island Trading	Helen Bennett
+
+Königlich Essen	Philip Cramer
+
+La corne d'abondance	Daniel Tonini
+
+La maison d'Asie	Annette Roulet
+
+Laughing Bacchus Wine Cellars	Yoshi Tannamuri
+
+Lazy K Kountry Store	John Steel
+
+Lehmanns Marktstand	Renate Messner
+
+Let's Stop N Shop	Jaime Yorres
+
+LILA-Supermercado	Carlos González
+
+LINO-Delicateses	Felipe Izquierdo
+
+Lonesome Pine Restaurant	Fran Wilson
+
+Magazzini Alimentari Riuniti	Giovanni Rovelli
+
+Maison Dewey	Catherine Dewey
+
+Mère Paillarde	Jean Fresnière
+
+Morgenstern Gesundkost	Alexander Feuer
+
+North/South	Simon Crowther
+
+Océano Atlántico Ltda.	Yvonne Moncada
+
+Old World Delicatessen	Rene Phillips
+
+Ottilies Käseladen	Henriette Pfalzheim
+
+Paris spécialités	Marie Bertrand
+
+
+
+
+
+ActiveReports Evaluation. Copyright 2002 (c) Data Dynamics, Ltd. All Rights Reserved.
+Company Name	Contact Name
+Paris spécialités	Marie Bertrand
+
+Pericles Comidas clásicas	Guillermo Fernández
+
+Piccolo und mehr	Georg Pipps
+
+Princesa Isabel Vinhos	Isabel de Castro
+
+Que Delícia	Bernardo Batista
+
+Queen Cozinha	Lúcia Carvalho
+
+QUICK-Stop	Horst Kloss
+
+Rancho grande	Sergio Gutiérrez
+
+Rattlesnake Canyon Grocery	Paula Wilson
+
+Reggiani Caseifici	Maurizio Moroni
+
+Ricardo Adocicados	Janete Limeira
+
+Richter Supermarkt	Michael Holz
+
+Romero y tomillo	Alejandra Camino
+
+Santé Gourmet	Jonas Bergulfsen
+
+Save-a-lot Markets	Jose Pavarotti
+
+Seven Seas Imports	Hari Kumar
+
+Simons bistro	Jytte Petersen
+
+Spécialités du monde	Dominique Perrier
+
+Split Rail Beer & Ale	Art Braunschweiger
+
+Suprêmes délices	Pascale Cartrain
+
+The Big Cheese	Liz Nixon
+
+The Cracker Box	Liu Wong
+
+Toms Spezialitäten	Karin Josephs
+
+Tortuga Restaurante	Miguel Angel Paolino
+
+Tradição Hipermercados	Anabela Domingues
+
+Trail's Head Gourmet Provisioners	Helvetius Nagy
+
+Vaffeljernet	Palle Ibsen
+
+Victuailles en stock	Mary Saveley
+
+Vins et alcools Chevalier	Paul Henriot
+
+Die Wandernde Kuh	Rita Müller
+
+
+
+
+
+ActiveReports Evaluation. Copyright 2002 (c) Data Dynamics, Ltd. All Rights Reserved.
+Company Name	Contact Name
+Die Wandernde Kuh	Rita Müller
+
+Wartian Herkku	Pirkko Koskitalo
+
+Wellington Importadora	Paula Parente
+
+White Clover Markets	Karl Jablonski
+
+Wilman Kala	Matti Karttunen
+
+Wolski  Zajazd	Zbyszek Piestrzeniewicz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ActiveReports Evaluation. Copyright 2002 (c) Data Dynamics, Ltd. All Rights Reserved.

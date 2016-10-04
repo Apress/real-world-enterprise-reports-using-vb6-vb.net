@@ -1,0 +1,19 @@
+<CrystalReports.PropertyBag xmlns="http://www.crystaldecisions.com/report" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="CrystalReports.PropertyBag" version="2">
+ <Property>
+  <Name>Author</Name> 
+  <Value VariantType="String">Administrator</Value> 
+  </Property>
+ <Property>
+  <Name>Description</Name> 
+  <Value VariantType="String" /> 
+  </Property>
+ <Property>
+  <Name>ObjectDescriptor</Name> 
+  <Value VariantType="String">contentSize=1931,226 fullSize=1931,226 contentOffset=0,0 cursorOffset=182,0 baselineOffset=0 analysisObjectType=12 analysisGroupLevel=0 objectType=1 isSummaryObject=0 canCopyObject=2145907280 isFieldObject=10435464</Value> 
+  </Property>
+ <Property>
+  <Name>Type</Name> 
+  <Value VariantType="String">{08FE72BD-FD24-485E-B3B0-6C43B7D07208}</Value> 
+  </Property>
+  </CrystalReports.PropertyBag>

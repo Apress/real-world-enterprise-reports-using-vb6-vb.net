@@ -1,0 +1,36 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\WINDOWS\System32\stdole2.tlb#OLE Automation
+Object={8767A745-088E-4CA6-8594-073D6D2DE57A}#9.2#0; crviewer9.dll
+Reference=*\G{2B78E590-E7D0-49BF-8F16-CFD6324DB307}#9.0#0#..\..\Program Files\Common Files\Crystal Decisions\2.0\bin\craxddrt9.dll#Crystal Reports 9 ActiveX Designer Design and Runtime Library
+Reference=*\G{AF376990-6120-4E28-96DD-63FD2DC27B7A}#9.0#0#..\..\Program Files\Crystal Decisions\Report Designer Component\craxdrt9.dll#Crystal Reports 9 ActiveX Designer Run Time Library
+Form=DynamicOrders.frm
+Module=Module1; Orders.bas
+Startup="Form1"
+Command32=""
+Name="Project1"
+HelpContextID="0"
+CompatibleMode="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="Seton Software Development, Inc."
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1

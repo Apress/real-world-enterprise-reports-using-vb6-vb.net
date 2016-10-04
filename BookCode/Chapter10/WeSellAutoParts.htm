@@ -1,0 +1,36 @@
+<HTML>
+<HEAD>
+   <TITLE>WeSellAutoParts</TITLE>
+   <META NAME="palmcomputingplatform" CONTENT="True">
+   <META NAME="palmlaunchrevision" CONTENT="1.0">
+</HEAD>
+
+<BODY>
+   <H1 ALIGN=center>Inventory On Hand Report</H1>
+   <P>Please Select Inventory Item</P><BR>	
+   <FORM METHOD="post" 
+   ACTION="http://local/GenReport.asp">
+   <TABLE WIDTH=100%>
+   <TR>
+      <TD>Product:</TD>
+      <TD><SELECT Name="PRODUCT">
+            <OPTION Selected VALUE=1>All Products</OPTION>
+            <OPTION VALUE=2>Torque Wrench</OPTION>
+            <OPTION VALUE=3>Air Compressior</OPTION>
+            <OPTION VALUE=4>Hose Assembly</OPTION>
+            <OPTION VALUE=5>Belt Assembly</OPTION>
+            <OPTION VALUE=6>Lift Arm Assembly</OPTION>
+            <OPTION VALUE=7>Winch Cables</OPTION>
+            <OPTION VALUE=8>Mounting Brackets</OPTION>
+            <OPTION VALUE=9>Filter Kit</OPTION>
+            <OPTION VALUE=10>Drain Pipe Extension</OPTION>
+         </SELECT>
+      </TD>
+   </TD>
+   </TABLE>
+   <P>
+   <INPUT TYPE="Submit" VALUE="View">	
+   </P>
+   </FORM>
+</BODY>
+</HTML>
